@@ -1,0 +1,58 @@
+
+
+
+<html>
+<head>
+<title>TFMSC Report</title>
+<style>
+body, td { 
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333;
+}
+h1 {
+	color: #004080;
+}
+thead { display: table-header-group; }
+.info { font-size: 80%; }
+.table_header {
+	text-align: center;
+	background-color: #C0E4FE;
+	font-weight: bold;
+	color: #004080;
+}
+.table_header_right {
+	text-align: right;
+	background-color: #C0E4FE;
+	font-weight: bold;
+	color: #004080;
+}
+.table_subtotal {
+	text-align: right;
+	color: black;
+	background-color: #dfdfdf;
+}
+.table_subtotal_lead {
+	text-align: left;
+	color: black;
+	background-color: #dfdfdf;
+}
+.table_footer {
+	text-align: right;
+	background-color: #C0E4FE;
+	font-weight: bold;
+	color: #004080;
+}
+.table_footer_lead {
+	text-align: left;
+	background-color: #C0E4FE;
+	font-weight: bold;
+	color: #004080;
+}
+</style>
+</head>
+<body>
+
+<p class="info">Report created on Sun Aug 2 21:10:52 EDT 2020<br>Sources: Traffic Flow Management System Counts (TFMSC), Aviation System Performance Metrics (ASPM)</p>
+</body>
+</html>
